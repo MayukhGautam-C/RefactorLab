@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1028e01a-a1f7-4e22-a426-96442b1cfd86" name="Changes" comment="first commit" />
+    <list default="true" id="1028e01a-a1f7-4e22-a426-96442b1cfd86" name="Changes" comment="Rename getBase to get BaseAmount" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668398197583</updated>
-      <workItem from="1668398198793" duration="1416000" />
+      <workItem from="1668398198793" duration="1725000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668399604266</created>
@@ -53,7 +53,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668399604266</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Extract Base Amount from ResidentialSite">
+      <created>1668399840348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668399840348</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Rename getBase to get BaseAmount">
+      <created>1668399918526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668399918526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Extract Base Amount from ResidentialSite" />
+    <MESSAGE value="Rename getBase to get BaseAmount" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename getBase to get BaseAmount" />
   </component>
 </project>
