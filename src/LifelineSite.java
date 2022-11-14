@@ -1,12 +1,7 @@
 public class LifelineSite extends Site{
 
-    private final double units;
-    private final double rate;
-
     public LifelineSite(double units, double rate) {
         super(units, rate);
-        this.units = units;
-        this.rate = rate;
     }
 
     public double getBaseAmount() {

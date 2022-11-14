@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1028e01a-a1f7-4e22-a426-96442b1cfd86" name="Changes" comment="Rename getTax to getTaxAmount">
-      <change beforePath="$PROJECT_DIR$/src/LifelineSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LifelineSite.java" afterDir="false" />
+    <list default="true" id="1028e01a-a1f7-4e22-a426-96442b1cfd86" name="Changes" comment="Adding Site Constructor parameters">
+      <change beforePath="$PROJECT_DIR$/src/Site.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Site.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668398197583</updated>
-      <workItem from="1668398198793" duration="2069000" />
+      <workItem from="1668398198793" duration="2999000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668399604266</created>
@@ -90,7 +90,35 @@
       <option name="project" value="LOCAL" />
       <updated>1668400236165</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Extract getBase to getBaseAmount">
+      <created>1668400302808</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668400302808</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding methods to super class">
+      <created>1668400787160</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668400787160</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changing method signatures">
+      <created>1668400974512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668400974512</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Adding Site Constructor parameters">
+      <created>1668401133071</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668401133071</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +141,10 @@
     <MESSAGE value="Rename getBase to get BaseAmount" />
     <MESSAGE value="Extracting getTax" />
     <MESSAGE value="Rename getTax to getTaxAmount" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename getTax to getTaxAmount" />
+    <MESSAGE value="Extract getBase to getBaseAmount" />
+    <MESSAGE value="Adding methods to super class" />
+    <MESSAGE value="Changing method signatures" />
+    <MESSAGE value="Adding Site Constructor parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Site Constructor parameters" />
   </component>
 </project>

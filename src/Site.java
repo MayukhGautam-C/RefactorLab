@@ -1,7 +1,7 @@
 public class Site {
     protected static final double TAX_RATE = 0.50;
-    private final double units;
-    private final double rate;
+    protected final double units;
+    protected final double rate;
 
     public Site(double units, double rate) {
         this.units = units;

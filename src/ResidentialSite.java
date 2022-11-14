@@ -1,12 +1,7 @@
 public class ResidentialSite extends Site{
 
-    private double units;
-    private double rate;
-
     public ResidentialSite(double units, double rate) {
         super(units, rate);
-        this.units = units;
-        this.rate = rate;
     }
 
     public double getTaxAmount(double base) {
