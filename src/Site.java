@@ -14,10 +14,10 @@ public class Site {
     }
 
     protected double getBaseAmount() {
-        return units * rate;
+        return 0;
     }
 
     protected double getTaxAmount(double base) {
-        return base * Site.TAX_RATE * 0.2;
+        return 0;
     }
 }
