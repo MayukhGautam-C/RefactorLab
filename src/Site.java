@@ -9,11 +9,11 @@ public class Site {
         return base + tax;
     }
 
-    private double getBaseAmount() {
+    protected double getBaseAmount() {
         return units * rate;
     }
 
-    private static double getTaxAmount(double base) {
+    protected double getTaxAmount(double base) {
         return base * Site.TAX_RATE * 0.2;
     }
 }

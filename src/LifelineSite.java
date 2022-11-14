@@ -12,7 +12,7 @@ public class LifelineSite extends Site{
         return units * rate * 0.5;
     }
 
-    public static double getTaxAmount(double base) {
+    public double getTaxAmount(double base) {
         return base * Site.TAX_RATE * 0.2;
     }
 
