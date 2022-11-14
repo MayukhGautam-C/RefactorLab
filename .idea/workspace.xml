@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1028e01a-a1f7-4e22-a426-96442b1cfd86" name="Changes" comment="Adding Site Constructor parameters">
-      <change beforePath="$PROJECT_DIR$/src/Site.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Site.java" afterDir="false" />
+    <list default="true" id="1028e01a-a1f7-4e22-a426-96442b1cfd86" name="Changes" comment="Inherited site methods return 0.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668398197583</updated>
-      <workItem from="1668398198793" duration="2999000" />
+      <workItem from="1668398198793" duration="3732000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668399604266</created>
@@ -118,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668401133071</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Moving instance variables to super class">
+      <created>1668401505941</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668401505941</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Inherited site methods return 0.">
+      <created>1668401625432</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668401625432</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +159,8 @@
     <MESSAGE value="Adding methods to super class" />
     <MESSAGE value="Changing method signatures" />
     <MESSAGE value="Adding Site Constructor parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Site Constructor parameters" />
+    <MESSAGE value="Moving instance variables to super class" />
+    <MESSAGE value="Inherited site methods return 0." />
+    <option name="LAST_COMMIT_MESSAGE" value="Inherited site methods return 0." />
   </component>
 </project>
